@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karl\\source\\repos\\check_it_up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|c:\\users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\dataprivacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\dataprivacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\dataprivacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\dataprivacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\doctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\doctorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\doctorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\doctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CC715-909D-4520-9EEF-E537624AB000}|check_it_up\\check_it_up.csproj|solutionrelative:check_it_up\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs",
+              "RelativeDocumentMoniker": "check_it_up\\profile.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs [Design]",
+              "RelativeToolTip": "check_it_up\\profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T12:18:43.029Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appointment.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs",
+              "RelativeDocumentMoniker": "check_it_up\\appointment.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs",
+              "RelativeToolTip": "check_it_up\\appointment.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEQAAAArAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:01:24.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "patientlist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs",
+              "RelativeDocumentMoniker": "check_it_up\\patientlist.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs [Design]",
+              "RelativeToolTip": "check_it_up\\patientlist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T17:54:32.133Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs",
+              "RelativeDocumentMoniker": "check_it_up\\appointment.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\appointment.cs [Design]",
+              "RelativeToolTip": "check_it_up\\appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:53:26.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs",
+              "RelativeDocumentMoniker": "check_it_up\\login.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs [Design]",
+              "RelativeToolTip": "check_it_up\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T10:47:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs",
+              "RelativeDocumentMoniker": "check_it_up\\user.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs [Design]",
+              "RelativeToolTip": "check_it_up\\user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T11:35:29.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Dashboard.cs",
+              "RelativeDocumentMoniker": "check_it_up\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Dashboard.cs [Design]",
+              "RelativeToolTip": "check_it_up\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T08:12:02.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patientlist.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs",
+              "RelativeDocumentMoniker": "check_it_up\\patientlist.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\patientlist.cs",
+              "RelativeToolTip": "check_it_up\\patientlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-19T09:38:22.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataPrivacy.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DataPrivacy.cs",
+              "RelativeDocumentMoniker": "check_it_up\\DataPrivacy.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DataPrivacy.cs",
+              "RelativeToolTip": "check_it_up\\DataPrivacy.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T19:48:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataPrivacy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DataPrivacy.cs",
+              "RelativeDocumentMoniker": "check_it_up\\DataPrivacy.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DataPrivacy.cs [Design]",
+              "RelativeToolTip": "check_it_up\\DataPrivacy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T19:35:23.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs",
+              "RelativeDocumentMoniker": "check_it_up\\user.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\user.cs",
+              "RelativeToolTip": "check_it_up\\user.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T11:42:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "profile.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs",
+              "RelativeDocumentMoniker": "check_it_up\\profile.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\profile.cs",
+              "RelativeToolTip": "check_it_up\\profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-19T12:30:42.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Program.cs",
+              "RelativeDocumentMoniker": "check_it_up\\Program.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Program.cs",
+              "RelativeToolTip": "check_it_up\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:16:59.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "doctordata.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs",
+              "RelativeDocumentMoniker": "check_it_up\\doctordata.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs [Design]",
+              "RelativeToolTip": "check_it_up\\doctordata.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T18:45:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\SignUp.cs",
+              "RelativeDocumentMoniker": "check_it_up\\SignUp.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\SignUp.cs",
+              "RelativeToolTip": "check_it_up\\SignUp.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv2gAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T16:44:12.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\SignUp.cs",
+              "RelativeDocumentMoniker": "check_it_up\\SignUp.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\SignUp.cs [Design]",
+              "RelativeToolTip": "check_it_up\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T07:46:20.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs",
+              "RelativeDocumentMoniker": "check_it_up\\login.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\login.cs",
+              "RelativeToolTip": "check_it_up\\login.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAowFkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T11:07:12.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Dashboard.cs",
+              "RelativeDocumentMoniker": "check_it_up\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\Dashboard.cs",
+              "RelativeToolTip": "check_it_up\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T12:39:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorList.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DoctorList.cs",
+              "RelativeDocumentMoniker": "check_it_up\\DoctorList.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DoctorList.cs",
+              "RelativeToolTip": "check_it_up\\DoctorList.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T19:12:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoctorList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DoctorList.cs",
+              "RelativeDocumentMoniker": "check_it_up\\DoctorList.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\DoctorList.cs [Design]",
+              "RelativeToolTip": "check_it_up\\DoctorList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T17:38:51.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "doctordata.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs",
+              "RelativeDocumentMoniker": "check_it_up\\doctordata.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\doctordata.cs",
+              "RelativeToolTip": "check_it_up\\doctordata.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T19:52:55.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "analytics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs",
+              "RelativeDocumentMoniker": "check_it_up\\analytics.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs [Design]",
+              "RelativeToolTip": "check_it_up\\analytics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-18T17:17:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "analytics.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs",
+              "RelativeDocumentMoniker": "check_it_up\\analytics.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\check_it_up\\check_it_up\\analytics.cs",
+              "RelativeToolTip": "check_it_up\\analytics.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-19T12:02:15.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
